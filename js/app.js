@@ -7,11 +7,11 @@ angular.module('myAppName', [])
 
          $scope.todos=[
          {
-         name:"Tâche incomplète",
+         name:"30 min remaining",
          completed: false
          },
          {
-         name:"Tâche complète",
+         name:"30 min remaining",
          completed: true
          }
          
